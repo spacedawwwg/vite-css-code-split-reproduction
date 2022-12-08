@@ -4,8 +4,6 @@ https://vitejs.dev/config/build-options.html#build-csscodesplit
 
 This is the vite-plugin-ssr vue-ts template with `cssCodeSplit: false` simply added to `vite.config.ts`.
 
-https://vitejs.dev/config/build-options.html#build-csscodesplit
-
 NOTE: `prerender: true` has also been set on the ssr plugin for ease of seeing the output HTML
 
 ## Reproduce
