@@ -26,7 +26,7 @@ yarn build
 
 ## Expected
 
-A single `<link rel="stylesheet" type="text/css" href="style.abcd1234.css" /> injected into the html
+A single `<link rel="stylesheet" type="text/css" href="style.abcd1234.css" />` injected into the html
 
 ## Actual
 
