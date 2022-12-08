@@ -1,6 +1,7 @@
 # vite-plugin-ssr not working with `cssCodeSplit: false` setting
 
-https://vitejs.dev/guide/features.html#css-code-splitting
+https://vitejs.dev/guide/features.html#css-code-splitting 
+
 https://vitejs.dev/config/build-options.html#build-csscodesplit
 
 >If you'd rather have all the CSS extracted into a single file, you can disable CSS code splitting by setting build.cssCodeSplit to false.
