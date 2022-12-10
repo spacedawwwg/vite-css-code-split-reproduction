@@ -6,6 +6,7 @@ const config: UserConfig = {
   plugins: [vue(), ssr({ prerender: true })],
   build: {
     cssCodeSplit: false,
+    manifest: true,
   },
 };
 
